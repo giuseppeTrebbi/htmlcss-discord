@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../live-coding/css-flex-intro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "struttura_discord"
+	}
+}
